@@ -1,6 +1,6 @@
 # Массовая генерация ТЗ для копирайтеров
 Скрипт массовой генерации шаблонных ТЗ для копирайтеров сразу в гуглодоки с парсингом данных из топ-5 выдачи Google.
 
-Полная инструкция по установке и настройке скрипта вместе с Python и всем необходимым в [инструкции в гуглодоке ]([url](https://docs.google.com/document/d/1aIqB6HBya45R9QDEzmEhUhNo2j5-joSmXqXjPXX5lfY/edit?usp=sharing))
+Полная инструкция по установке и настройке скрипта вместе с Python и всем необходимым в инструкции → https://docs.google.com/document/d/1aIqB6HBya45R9QDEzmEhUhNo2j5-joSmXqXjPXX5lfY
 
 Все вопросы, предложения и другие скрипты автоматизации для SEO в моём телеграм-канале https://t.me/seo_automatization
