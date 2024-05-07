@@ -1,0 +1,5 @@
+{
+  "service_account_key_path" : "./your_key.json",
+  "folder_id" : "your_folder_id",
+  "xmlriver_url" : "http://xmlriver.com/search/xml?user=your_url"
+}
